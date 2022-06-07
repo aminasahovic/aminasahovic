@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 📫 How to reach me: asahovic01@gmail.com
-- LinkedIn: https://www.linkedin.com/in/amina-%C5%A1ahovi%C4%87-b55257214/
+- 🌱LinkedIn: https://www.linkedin.com/in/amina-%C5%A1ahovi%C4%87-b55257214/
 <!--
 **aminasahovic/aminasahovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
